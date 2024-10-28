@@ -32,7 +32,8 @@ const LiteratureReview = () => {
           Early screening for retinopathy is essential. The app incorporates ML algorithms to analyze retinal images for detection (Ting et al., 2019).
         </p>
 
-        <h2 className="text-xl sm:text-2xl font-semibold mb-2">5. Machine Learning's Role</h2>
+        <h2 className="text-xl sm:text-2xl font-semibold mb-2">5. Machine Learning&apos;s Role</h2>
+
         <p className="mb-4 text-sm sm:text-base">
           ML enhances predictive healthcare by identifying risk factors and providing personalized feedback (Rajkomar et al., 2018). The app combines various indicators for a comprehensive risk assessment.
         </p>
